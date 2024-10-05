@@ -4,6 +4,6 @@
 
 Profesor: Carlos Andrés Rojas Parra
 
-Estudiantes: 
-Daniel Felipe Correa Trujillo
-    - 
+Estudiantes:
+    - Juan David Arcila
+    - Daniel Felipe 
