@@ -1,8 +1,8 @@
-#Proyecto POO Demo Tienda
+# Proyecto POO Demo Tienda
 
-##Integrantes
+## Integrantes
 
-###Profesor: 
+### Profesor: 
 Carlos Andrés Rojas Parra
 
 ###Estudiantes:
