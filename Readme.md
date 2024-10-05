@@ -6,3 +6,5 @@ Profesor: Carlos Andrés Rojas Parra
 
 Estudiantes:
     - Jaime Andres
+    - Juan David Arcila
+    - Daniel Felipe 
