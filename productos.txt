@@ -1,0 +1,2 @@
+Iphone;2000
+Xiaomi;1000
