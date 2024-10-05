@@ -4,5 +4,5 @@
 
 Profesor: Carlos Andrés Rojas Parra
 
-Estudiantes:
-    - 
+Estudiantes: 
+    - Nicolas Medina
