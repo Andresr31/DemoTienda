@@ -1,2 +1,4 @@
 Iphone;2000
 Xiaomi;1000
+Samnsung;3000
+Motorola;2000
